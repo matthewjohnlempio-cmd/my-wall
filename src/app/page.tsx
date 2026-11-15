@@ -268,7 +268,7 @@ export default function Home() {
             <div className="mb-5 border border-[#c4cde0] bg-white p-4 shadow-sm">
 
               <h3 className="mb-3 border-b border-gray-200 pb-2 font-bold text-[#3b5998]">
-                Write on Matthew's Wall
+                Write on Matthew&apos;s Wall
               </h3>
 
               <textarea
@@ -347,7 +347,7 @@ export default function Home() {
             {/* Wall Feed */}
             <div className="mb-3 flex items-center justify-between">
               <h3 className="font-bold text-[#3b5998]">
-                Matthew's Wall
+                Matthew&apos;s Wall
               </h3>
 
               <span className="text-xs text-gray-500">
