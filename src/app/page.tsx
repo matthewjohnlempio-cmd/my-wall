@@ -221,7 +221,7 @@ export default function Home() {
 
             <img
               src="/profile.png"
-              alt="Matthew's profile"
+              alt="Matthew&apos;s profile"
               className="h-32 w-32 shrink-0 border border-[#ccd4e0] bg-[#edf1f7] object-cover"
             />
 
